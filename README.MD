@@ -1,4 +1,4 @@
-# What is this projects?
+# What is this project?
 
 This is a simple project to test the Azure Cosmos DB API with Node.js.
 
